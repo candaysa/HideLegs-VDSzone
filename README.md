@@ -1,5 +1,5 @@
 ﻿# HideLegs - VDSzone
 
-CS2 Bacak Gizleme Eklentisi
+ **This plugin is specifically built for VDSzone and will not work on other systems.**
 
-İndirmek için [Releases](https://github.com/candaysa/HideLegs-VDSzone/releases) sekmesine gidin.
+Download from [Releases](https://github.com/candaysa/HideLegs-VDSzone/releases) section.
